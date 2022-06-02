@@ -1,0 +1,128 @@
+name: news
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/news/assets/images/ellipse1.png
+    - packages/news/assets/images/ellipse2.png
+    - packages/news/assets/images/ellipse3.png
+    - packages/news/assets/images/ellipse4.png
+    - packages/news/assets/images/frame6.svg
+    - packages/news/assets/images/search.svg
+    - packages/news/assets/images/line1.svg
+    - packages/news/assets/images/line2.svg
+    - packages/news/assets/images/rectangle3.png
+    - packages/news/assets/images/ellipse10.png
+    - packages/news/assets/images/ellipse11.png
+    - packages/news/assets/images/rectangle8.png
+    - packages/news/assets/images/rectangle.png
+    - packages/news/assets/images/combinedshape.png
+    - packages/news/assets/images/wifi.png
+    - packages/news/assets/images/home.svg
+    - packages/news/assets/images/ellipse9.png
+    - packages/news/assets/images/plus.svg
+    - packages/news/assets/images/ad.svg
+    - packages/news/assets/images/pollh.svg
+    - packages/news/assets/images/frame4.svg
+    - packages/news/assets/images/ellipse26.png
+    - packages/news/assets/images/ellipse31.png
+    - packages/news/assets/images/rectangle6.png
+    - packages/news/assets/images/frame8.svg
+    - packages/news/assets/images/frame9.svg
+    - packages/news/assets/images/bars.svg
+    - packages/news/assets/images/group.svg
+    - packages/news/assets/images/angledown.svg
+    - packages/news/assets/images/rectangle33.png
+    - packages/news/assets/images/rectangle37.png
+    - packages/news/assets/images/rectangle88.png
+    - packages/news/assets/images/ellipse21.png
+    - packages/news/assets/images/ellipse22.svg
+    - packages/news/assets/images/done.png
+    - packages/news/assets/images/heart.svg
+    - packages/news/assets/images/comment.svg
+    - packages/news/assets/images/share.svg
+    - packages/news/assets/images/ellipse23.png
+    - packages/news/assets/images/ellipse27.png
+    - packages/news/assets/images/ellipse32.png
+    - packages/news/assets/images/ellipse24.png
+    - packages/news/assets/images/frame7.svg
+    - packages/news/assets/images/rectangle35.png
+    - packages/news/assets/images/ellipse25.png
+    - packages/news/assets/images/playcircle.svg
+    - packages/news/assets/images/ellipse29.png
+    - packages/news/assets/images/ellipse30.png
+    - packages/news/assets/images/ellipse28.png
+    - packages/news/assets/images/check.svg
+    - packages/news/assets/images/sponsorship1.png
+    - packages/news/assets/images/star1.png
+    - packages/news/assets/images/bell.svg
+    - packages/news/assets/images/vector.svg
+    - packages/news/assets/images/bookmarkunselected.svg
+    - packages/news/assets/images/image.png
+    - packages/news/assets/images/avatar.png
+    - packages/news/assets/images/line3.svg
+    - packages/news/assets/images/line4.svg
+    - packages/news/assets/images/mail.svg
+    - packages/news/assets/images/frame.svg
+    - packages/news/assets/images/group1.svg
+    - packages/news/assets/images/ellipse38.png
+    - packages/news/assets/images/ellipse36.png
+    - packages/news/assets/images/image9.png
+    - packages/news/assets/images/image10.png
+    - packages/news/assets/images/divider.svg
+    - packages/news/assets/images/wallet1.png
+    - packages/news/assets/images/settingsicons.svg
+    - packages/news/assets/images/line9.svg
+    - packages/news/assets/images/line8.svg
+    - packages/news/assets/images/vector2.svg
+    - packages/news/assets/images/vector3.svg
+    - packages/news/assets/images/vector4.svg
+    - packages/news/assets/images/vector5.svg
+    - packages/news/assets/images/vector6.svg
+    - packages/news/assets/images/write1.png
+    - packages/news/assets/images/arrowleft.svg
+    - packages/news/assets/images/iconscontentsmile.svg
+    - packages/news/assets/images/iconsparagraphparagraphformat.svg
+    - packages/news/assets/images/polygon.svg
+    - packages/news/assets/images/iconsparagraphindent.svg
+    - packages/news/assets/images/line7.svg
+    - packages/news/assets/images/workspace.svg
+    - packages/news/assets/images/line10.svg
+    - packages/news/assets/images/line11.svg
+    - packages/news/assets/images/image1.png
+    - packages/news/assets/images/image2.png
+    - packages/news/assets/images/image4.png
+    - packages/news/assets/images/smile.svg
+    - packages/news/assets/images/link.svg
+    - packages/news/assets/images/paperclip.svg
+    - packages/news/assets/images/star2.png
+    - packages/news/assets/images/arrowright.svg
+    - packages/news/assets/images/ellipse5.png
+    - packages/news/assets/images/ellipse6.png
+    - packages/news/assets/images/ellipse7.png
+    - packages/news/assets/images/group14.svg
+    - packages/news/assets/images/symbol563.svg
+    - packages/news/assets/images/image5.png
+    - packages/news/assets/images/ellipse33.png
+    - packages/news/assets/images/image7.png
+    - packages/news/assets/images/ellipse34.png
+    - packages/news/assets/images/image8.png
+    - packages/news/assets/images/ellipse35.png
+    - packages/news/assets/images/carbonuserfilled.svg
+    - packages/news/assets/images/ellipse37.png
+    - packages/news/assets/images/whatsapp20image202022051320at205072.png
+    - packages/news/assets/images/whatsapp20image202022051320at205071.png
